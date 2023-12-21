@@ -1,0 +1,186 @@
+
+
+@media only screen and (max-width: 1200px) {
+ .topline {    top: 42px;
+  left:-16px;} 
+  
+  /* .textbox {
+    width: 340px;
+    height: 264px;
+  }
+}
+.peanutimage {
+  margin: 0px;
+}
+.textlorem2 {
+  max-width: 590px; */
+  .topline1{left: -14px;}
+}
+
+@media only screen and (max-width: 1024px) {
+.videosection{height: auto;}
+
+/* .topline1{ top: 154px;} */
+  /* .topline {    top: 42px;
+    left:-16px;}  */
+  /* .image {
+    background-repeat: no-repeat;
+
+    max-width: 100%;
+    /* height: auto; */
+  /* }
+
+  .textbox {
+    width: 340px;
+    height: 264px;
+  }
+
+  .videosection {
+    flex-direction: column;
+    margin: 0px;
+    padding-top: 0px;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+  }
+  .videosection1 {
+    flex-direction: column;
+    margin-top: 0px;
+    height: auto;
+    margin-left: 0px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .textboxsection {
+    /* height: 474px;  */
+  /* padding-top: 0px;
+    align-items: center;
+    justify-content: center;
+  }
+  .topline {
+    top: 18px;
+  }
+
+  .peanutcontainer {
+    flex-direction: column;
+    height: 782px;
+    justify-content: center;
+    align-items: center;
+  }
+  .peanutimage {
+    margin: 0px;
+  }
+  .textlorem2 {
+    max-width: 590px;
+  } */
+  /* .videosection1{top: 24px;
+    left: -13px;} */
+  .topline1{top: 24px;
+    left: -13px;}
+    .topline{top: 32px;}
+    .box2 {
+      height: 500px;
+}
+}
+ @media only screen and (max-width: 786px) {
+    .peanutcontainer {height: 534px;} 
+    .videosection{height: 702px;}
+  .videosection1{height: 586px;}
+   .input{margin-left: 10px;
+  max-width: 113px;}
+  .logo{max-width: 130px; gap: 0px;}
+  .register{font-size: 18px;
+  max-width: 81px;}
+  .addtocart{margin-right: 0px;}
+  .searchinput{width: 83px;}
+  .paragraph{font-size: 14px;}
+  .logoimage{width: 24px;
+  height: 24px;} 
+
+  .item{gap: 14px;
+  font-size: 16px;}
+
+  .textlorem2{max-width: 540px;}
+  .sectionheadingh33 {padding-right: 0px;
+  margin-left: 0px;}
+
+  .triangleshape1 {
+    left: 37px;
+    top: 209px;}
+.triangleshape{left: 28px;top: 213px;
+}
+.circleicon2{right: 61px;}
+.dotedcircle {right: 46px;}
+
+  /* .image {
+    padding-top: 20px;
+  }
+  .BUYNOW {
+    margin-top: 40px;
+  }
+  .input {
+    margin-top: 0px;
+    width: 170px;
+  }
+  .search {
+    width: 140px;
+  }
+  .textboxsection {
+    max-width: 100%;
+    padding: 15px;
+  } */
+}
+
+@media only screen and (max-width: 480px) {
+
+
+  .item{display: flex;
+  flex-direction: column;}
+  .nav{height: 214px;}
+  .peanutcontainer {height: 1140px;
+  flex-direction: column;
+  align-items: center; justify-content: center;}
+  .peanutimage{width: 90%; justify-content: center;
+    align-items: center;
+    padding-left: 24px;
+  height: 200px;}
+  
+  .pricingplan {flex-direction: column;
+  height: 1400px;}
+
+
+
+
+
+.textlorem2{max-width: 210px;
+margin: 0px;
+font-size: 14px;}
+.textbox{width: 339px;
+height: 259px;}
+  .sectionheadingh33 {margin-left: 0px;
+  font-size: 28px;
+padding-right: 0px;}
+.discountbox {padding-top: 10px;}
+.backgroundimage1{height: 416px;}
+
+.triangleshape1 {left: 24px;
+  top: 209px;}
+.triangleshape{left: 14px;top: 206px;
+}
+.circleicon2{right: 32px;}
+.dotedcircle {right: 18px;}
+.americanFood {font-size: 24px;}
+.tasteFood {font-size: 18px;}
+.youtube {font-size: 24px;}
+  /* .input{margin-left: 10px;
+    max-width: 113px;}
+    .logo{max-width: 130px; gap: 0px;}
+    .register{font-size: 18px;
+    max-width: 81px;}
+    .addtocart{margin-right: 0px;}
+    .searchinput{width: 83px;}
+    .paragraph{font-size: 14px;}
+    .logoimage{width: 24px;
+    height: 24px;} */
+}
